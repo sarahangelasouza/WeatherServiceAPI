@@ -1,0 +1,8 @@
+http%3A%2F%2Fapi.openweathermap.org
+Unit-Tests
+Data-Driven-Tests
+General-Test-Suite
+Load-Specific-Tests
+OpenWeather-Service-Stub
+OpenWeather-Mock-Top-50
+Sample-Virt
